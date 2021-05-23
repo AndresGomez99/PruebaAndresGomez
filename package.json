@@ -1,0 +1,23 @@
+{
+  "name": "pruebaingo",
+  "version": "1.0.0",
+  "description": "Prueba, horas a texto.",
+  "main": "horas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresGomez99/PruebaINGO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresGomez99/PruebaINGO/issues"
+  },
+  "homepage": "https://github.com/AndresGomez99/PruebaINGO#readme",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
