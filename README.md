@@ -1,5 +1,7 @@
 ## Acerca del código
 En cuanto al código la funcionalidad principal de convertir una hora dada a su equivalente en redacción se encuentra dentro de archivo **horas.js**, mientras que index.js  es un simple main el cual permite demostrar la funcionalidad indicada. Se tomó esta decisión con el fin de modularizar la funcionalidad en caso de que se requiera utilizarla en otra parte.
+
+Se realiza la prueba desde consola usando la biblioteca "prompt".
 ## Pasos para ejecutar el programa
   1. Es necesario asegurar que se tiene instalado la última versión de Node.js [Descargar Node.js](https://nodejs.org/es/download/)
   2. Una vez instalado, descargar el código de este repositorio.
