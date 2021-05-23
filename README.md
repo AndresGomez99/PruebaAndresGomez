@@ -6,7 +6,7 @@ En cuanto al código la funcionalidad principal de convertir una hora dada a su 
   3. Descomprir en una carpeta el .zip que se nos descargó.
   4. Dirigirse a la terminal de nuestro sistema e introducir la ruta de la carpeta donde se encuentra el código.
   5. En la consola ingresar **npm install** para instalar las dependencias necesarias.
-  6. Luego introducir **npm run init**(también puede ingresar node index.js) para comenzar la ejecución del programa.
+  6. Luego introducir **npm run init** (también puede ingresar node index.js) para comenzar la ejecución del programa.
   7. Y ya se puede comenzar a utilizar el programa.
 ## Como utilizar el programa
   1. Una vez en ejecución el programa solicita que una hora con el formato ([horas]:[minutos][am/pm]) por lo que debe ingresar una fecha válida.
