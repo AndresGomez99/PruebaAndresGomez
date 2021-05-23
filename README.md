@@ -10,7 +10,8 @@
 ## Como utilizar el programa
   1. Una vez en ejecución el programa solicita que una hora con el formato ([horas]:[minutos][am/pm])
     -Algunos ejemplos del formato:
-      - 1:30 am o 01:30 am
-      - 12:55 pm
-      - 7:30am o 7:30 am
+      - 1:30am o 01:30am (el programa acepta tanto el formato de hora de un solo digito como con dos)
+      - 12:55pm
+      - 7:30am o 7:30 am (el programa acepta que el am/pm se encuentre separado o junto a la hora)
+      
 
